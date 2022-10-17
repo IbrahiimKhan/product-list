@@ -1,0 +1,9 @@
+li{
+    list-style-type: none;
+   /* // background-color: red; */
+   margin-bottom: 10px;
+}
+.update{
+    text-align: right;
+    margin-right: auto;
+}
